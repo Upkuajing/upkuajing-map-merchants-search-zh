@@ -1,7 +1,7 @@
 ---
 name: upkuajing-map-merchants-search-zh
 description: 依托 Google‑Maps 商业数据库挖掘海外本地企业、线下门店和服务商。可按照所在区域、行业分类、商家评分筛选精准目标客户，助力外贸销售团队完成海外市场布局和线下渠道获客。
-metadata: {"version":"1.0.4","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📍","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.5","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📍","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # 跨境魔方地图商户搜索
