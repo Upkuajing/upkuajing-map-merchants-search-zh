@@ -1,0 +1,19 @@
+{
+  "task_id": "fa1578eb-66de-4660-9bed-d3712cd6aae7",
+  "params": {
+    "keywords": [
+      "hotel"
+    ],
+    "geoDistance": {
+      "location": {
+        "lat": 31.1104643,
+        "lon": 29.7602221
+      },
+      "distance": "5km"
+    }
+  },
+  "cursor": null,
+  "total_retrieved": 0,
+  "requested": 20,
+  "status": "completed"
+}

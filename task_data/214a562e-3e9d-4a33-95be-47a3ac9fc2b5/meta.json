@@ -1,0 +1,22 @@
+{
+  "task_id": "214a562e-3e9d-4a33-95be-47a3ac9fc2b5",
+  "params": {
+    "keywords": [
+      "restaurant"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "geoDistance": {
+      "location": {
+        "lat": 40.758,
+        "lon": -73.9855
+      },
+      "distance": "5km"
+    }
+  },
+  "cursor": null,
+  "total_retrieved": 0,
+  "requested": 20,
+  "status": "completed"
+}

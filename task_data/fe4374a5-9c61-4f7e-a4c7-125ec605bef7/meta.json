@@ -1,0 +1,16 @@
+{
+  "task_id": "fe4374a5-9c61-4f7e-a4c7-125ec605bef7",
+  "params": {
+    "keywords": [
+      "restaurant"
+    ],
+    "countryCodes": [
+      "US"
+    ],
+    "existPhone": true
+  },
+  "cursor": "eyJjdXJzb3IiOjEwMH0=",
+  "total_retrieved": 100,
+  "requested": 20,
+  "status": "completed"
+}

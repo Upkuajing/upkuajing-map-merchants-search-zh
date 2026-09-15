@@ -1,0 +1,17 @@
+{
+  "task_id": "6d89e171-a0be-4562-a95b-66b4019becdd",
+  "params": {
+    "keywords": [
+      "cafe"
+    ],
+    "provinceIds": [
+      "3811"
+    ],
+    "existPhone": true,
+    "existWebsite": true
+  },
+  "cursor": "eyJjdXJzb3IiOjEwMH0=",
+  "total_retrieved": 100,
+  "requested": 20,
+  "status": "completed"
+}

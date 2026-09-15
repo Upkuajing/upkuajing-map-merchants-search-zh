@@ -1,0 +1,317 @@
+[
+  {
+    "id": 3768,
+    "nameEn": "Hưng Yên",
+    "name": "兴安"
+  },
+  {
+    "id": 3769,
+    "nameEn": "Đồng Tháp",
+    "name": "同塔省"
+  },
+  {
+    "id": 3770,
+    "nameEn": "Bà Rịa-Vũng Tàu",
+    "name": "巴地-斗顿"
+  },
+  {
+    "id": 3771,
+    "nameEn": "Thanh Hóa",
+    "name": "清化"
+  },
+  {
+    "id": 3772,
+    "nameEn": "Kon Tum",
+    "name": "崑嵩市"
+  },
+  {
+    "id": 3773,
+    "nameEn": "Điện Biên",
+    "name": "奠边府市"
+  },
+  {
+    "id": 3774,
+    "nameEn": "Vĩnh Phúc",
+    "name": "永富"
+  },
+  {
+    "id": 3775,
+    "nameEn": "Thái Bình",
+    "name": "太平"
+  },
+  {
+    "id": 3776,
+    "nameEn": "Quảng Nam",
+    "name": "广南"
+  },
+  {
+    "id": 3777,
+    "nameEn": "Hậu Giang",
+    "name": "后江"
+  },
+  {
+    "id": 3778,
+    "nameEn": "Cà Mau",
+    "name": "金瓯"
+  },
+  {
+    "id": 3779,
+    "nameEn": "Hà Giang",
+    "name": "河江"
+  },
+  {
+    "id": 3780,
+    "nameEn": "Nghệ An",
+    "name": "義安省"
+  },
+  {
+    "id": 3781,
+    "nameEn": "Tiền Giang",
+    "name": "前江"
+  },
+  {
+    "id": 3782,
+    "nameEn": "Cao Bằng",
+    "name": "高平"
+  },
+  {
+    "id": 3783,
+    "nameEn": "Hải Phòng",
+    "name": "海防市"
+  },
+  {
+    "id": 3784,
+    "nameEn": "Yên Bái",
+    "name": "安沛"
+  },
+  {
+    "id": 3785,
+    "nameEn": "Bình Dương",
+    "name": "平阳"
+  },
+  {
+    "id": 3786,
+    "nameEn": "Ninh Bình",
+    "name": "宁平"
+  },
+  {
+    "id": 3787,
+    "nameEn": "Bình Thuận",
+    "name": "平順省"
+  },
+  {
+    "id": 3788,
+    "nameEn": "Ninh Thuận",
+    "name": "宁顺"
+  },
+  {
+    "id": 3789,
+    "nameEn": "Nam Định",
+    "name": "南定市"
+  },
+  {
+    "id": 3790,
+    "nameEn": "Vĩnh Long",
+    "name": "永隆"
+  },
+  {
+    "id": 3791,
+    "nameEn": "Bắc Ninh",
+    "name": "北宁"
+  },
+  {
+    "id": 3792,
+    "nameEn": "Lạng Sơn",
+    "name": "谅山"
+  },
+  {
+    "id": 3826,
+    "nameEn": "Tây Ninh",
+    "name": "西宁"
+  },
+  {
+    "id": 3827,
+    "nameEn": "Hải Dương",
+    "name": "海阳"
+  },
+  {
+    "id": 3828,
+    "nameEn": "Quảng Ngãi",
+    "name": "广义"
+  },
+  {
+    "id": 3829,
+    "nameEn": "Đắk Lắk",
+    "name": "多乐省"
+  },
+  {
+    "id": 3830,
+    "nameEn": "Bình Định",
+    "name": "平定"
+  },
+  {
+    "id": 3793,
+    "nameEn": "Khánh Hòa",
+    "name": "庆和省"
+  },
+  {
+    "id": 3794,
+    "nameEn": "An Giang",
+    "name": "安江"
+  },
+  {
+    "id": 3795,
+    "nameEn": "Tuyên Quang",
+    "name": "宣光"
+  },
+  {
+    "id": 3796,
+    "nameEn": "Bến Tre",
+    "name": "槟知"
+  },
+  {
+    "id": 3797,
+    "nameEn": "Bình Phước",
+    "name": "平福"
+  },
+  {
+    "id": 3798,
+    "nameEn": "Thừa Thiên-Huế",
+    "name": "顺化"
+  },
+  {
+    "id": 3799,
+    "nameEn": "Hòa Bình",
+    "name": "和平"
+  },
+  {
+    "id": 3800,
+    "nameEn": "Kiên Giang",
+    "name": "坚江"
+  },
+  {
+    "id": 3801,
+    "nameEn": "Phú Thọ",
+    "name": "富寿"
+  },
+  {
+    "id": 3802,
+    "nameEn": "Hà Nam",
+    "name": "哈南"
+  },
+  {
+    "id": 3803,
+    "nameEn": "Quảng Trị",
+    "name": "广治"
+  },
+  {
+    "id": 3804,
+    "nameEn": "Bạc Liêu",
+    "name": "薄寮"
+  },
+  {
+    "id": 3805,
+    "nameEn": "Trà Vinh",
+    "name": "茶荣"
+  },
+  {
+    "id": 3806,
+    "nameEn": "Đà Nẵng",
+    "name": "岘港"
+  },
+  {
+    "id": 3807,
+    "nameEn": "Thái Nguyên",
+    "name": "太原"
+  },
+  {
+    "id": 3808,
+    "nameEn": "Long An",
+    "name": "隆安"
+  },
+  {
+    "id": 3809,
+    "nameEn": "Quảng Bình",
+    "name": "南广平"
+  },
+  {
+    "id": 3810,
+    "nameEn": "Hà Nội",
+    "name": "河内市"
+  },
+  {
+    "id": 3811,
+    "nameEn": "Hồ Chí Minh",
+    "name": "胡志明市"
+  },
+  {
+    "id": 3812,
+    "nameEn": "Sơn La",
+    "name": "山萝"
+  },
+  {
+    "id": 3813,
+    "nameEn": "Gia Lai",
+    "name": "嘉莱"
+  },
+  {
+    "id": 3814,
+    "nameEn": "Quảng Ninh",
+    "name": "广宁"
+  },
+  {
+    "id": 3815,
+    "nameEn": "Bắc Giang",
+    "name": "北江"
+  },
+  {
+    "id": 3816,
+    "nameEn": "Hà Tĩnh",
+    "name": "河静"
+  },
+  {
+    "id": 3817,
+    "nameEn": "Lào Cai",
+    "name": "老街"
+  },
+  {
+    "id": 3818,
+    "nameEn": "Lâm Đồng",
+    "name": "林同"
+  },
+  {
+    "id": 3819,
+    "nameEn": "Sóc Trăng",
+    "name": "朔庄"
+  },
+  {
+    "id": 3821,
+    "nameEn": "Đồng Nai",
+    "name": "同奈"
+  },
+  {
+    "id": 3822,
+    "nameEn": "Bac Kan",
+    "name": "北干"
+  },
+  {
+    "id": 3823,
+    "nameEn": "Đắk Nông",
+    "name": "多农"
+  },
+  {
+    "id": 3824,
+    "nameEn": "Phú Yên",
+    "name": "富安"
+  },
+  {
+    "id": 3825,
+    "nameEn": "Lai Châu",
+    "name": "莱州"
+  },
+  {
+    "id": 4925,
+    "nameEn": "Cần Thơ",
+    "name": "芹苴"
+  }
+]
